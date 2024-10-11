@@ -1,14 +1,14 @@
 Running instructions:
-mvn clean install
+mvn clean install <br/>
 mvn spring-boot:run
-
-Hosted location:
+<br/><br/>
+Hosted location:<br/>
 http://localhost:8000/api/users
-
-code location: 
+<br/><br/>
+code location: <br/>
 src/main/java/com/boot/User/API
-
-Post request body:
+<br/><br/>
+Post request body:<br/>
 {
         "id": int id,
         "username": String username,
